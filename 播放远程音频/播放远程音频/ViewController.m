@@ -30,7 +30,7 @@
 }
 
 - (void)touchesBegan:(NSSet<UITouch *> *)touches withEvent:(UIEvent *)event {
-    [self.player play];iny
+    [self.player play];
 }
 
 @end
